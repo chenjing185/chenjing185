@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenjing185&show_icons=true&theme=radical)
 
 ## 我最喜欢的开源项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&theme=tokyonight&repo=hexo-theme-yun)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&theme=tokyonight&repo=jsdelivr)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&theme=tokyonight&layout=compact&repo=hexo-theme-yun)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&theme=tokyonight&layout=compact&repo=jsdelivr)](https://github.com/anuraghazra/github-readme-stats)
