@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ## 常用语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenjing185&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+## 我最喜欢的开源项目
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=hexo-theme-yun)](https://github.com/anuraghazra/github-readme-stats)
