@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 ## GitHub stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=chenjing185&theme=shades-of-purple&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
-    <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjing185&layout=compact&theme=tokyonight" alt="Alex's Top Langs">
 </p>
+    
+## 👨‍💻 My GitHub activities of last 31 days.
+
+![pudongping's github activity graph](https://activity-graph.herokuapp.com/graph?username=chenjing185&theme=react-dark&area=true&custom_title=Alex%20Pu's%20Contribution%20Graph)
 
 ## 我最喜欢的开源项目
 <a href="https://github.com/chenjing185/chenjing185.github.io.git">
