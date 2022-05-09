@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<details>
+<summary>更多</summary>
 
 ## GitHub stats
 <p align="center">
@@ -29,3 +31,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/chenjing185/hexo-theme-yun.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=hexo-theme-yun&show_owner=true&theme=nightowl" />
 </a>
+    
+</details>
