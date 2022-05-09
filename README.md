@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 ![pudongping's github activity graph](https://activity-graph.herokuapp.com/graph?username=chenjing185&theme=react-dark&area=true&custom_title=Alex%20Pu's%20Contribution%20Graph)
 
 ## 我最喜欢的开源项目
-<a href="https://github.com/chenjing185/chenjing185.github.io.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=chenjing185.github.io&show_owner=true&theme=nightowl" />
+<a href="https://github.com/chenjing185/jsdelivr.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=jsdelivr&show_owner=true&theme=nightowl" />
 </a>
-    
 <a href="https://github.com/chenjing185/hexo-theme-yun.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=hexo-theme-yun&show_owner=true&theme=nightowl" />
 </a>
