@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 ## 我最喜欢的开源项目
 <a href="https://github.com/chenjing185/chenjing185.github.io.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=chenjing185.github.io&show_owner=true&theme=nightowl" />
-</a>
-<a href="https://github.com/chenjing185/hexo-theme-yun.git">
+</a><a href="https://github.com/chenjing185/hexo-theme-yun.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=hexo-theme-yun&show_owner=true&theme=nightowl" />
 </a>
     
