@@ -14,12 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 常用语言
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenjing185&layout=compact&&theme=merko&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenjing185&show_icons=true&theme=radical)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/?username=chenjing185&theme=shades-of-purple&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
+    <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjing185&layout=compact&theme=tokyonight" alt="Alex's Top Langs">
+</p>
 
 ## 我最喜欢的开源项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&theme=tokyonight&layout=compact&repo=hexo-theme-yun)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&theme=tokyonight&layout=compact&repo=jsdelivr)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/chenjing185/chenjing185.github.io.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=chenjing185.github.io&show_owner=true&theme=nightowl" />
+</a>
+<a href="https://github.com/chenjing185/hexo-theme-yun.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=hexo-theme-yun&show_owner=true&theme=nightowl" />
+</a>
