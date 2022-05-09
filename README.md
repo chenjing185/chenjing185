@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 ## 我最喜欢的开源项目
 <a href="https://github.com/chenjing185/jsdelivr.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=jsdelivr&show_owner=true&theme=nightowl" height="180px" width="50vw"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=jsdelivr&show_owner=true&theme=nightowl" height="180px" width="50em"/>
 </a>
 <a href="https://github.com/chenjing185/hexo-theme-yun.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=hexo-theme-yun&show_owner=true&theme=nightowl" height="180px" width="50vw"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=hexo-theme-yun&show_owner=true&theme=nightowl" height="180px" width="50em"/>
 </a>
     
 </details>
