@@ -23,10 +23,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenjing185&layout=compact&theme=tokyonight" alt="Alex's Top Langs">
 </p>
     
-## 👨‍💻 My GitHub activities of last 31 days.
-
-![pudongping's github activity graph](https://activity-graph.herokuapp.com/graph?username=chenjing185&theme=react-dark&area=true&custom_title=Alex%20Pu's%20Contribution%20Graph)
-
 ## 我最喜欢的开源项目
 <a href="https://github.com/chenjing185/jsdelivr.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenjing185&repo=jsdelivr&show_owner=true&theme=nightowl" width="45%" height="160px"/>
